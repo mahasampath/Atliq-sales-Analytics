@@ -12,16 +12,16 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 •	PowerPivot: Enhanced data analysis and model creation.
 •	Data Modeling using DAX Formulas: Implemented for creating complex data models and calculations.
 
-## Fiscal Year Definition
+### Fiscal Year Definition
 AtliQ Technologies' fiscal year starts in September and ends in August.
 
-# Objectives
+## Objectives
 •	Customer Net Sales Performance Report: Overview of revenue generated from customers.
 •	Market Performance vs Targets Comparison: Analysis of sales efforts against goals and market conditions.
 •	Profit & Loss by Fiscal months: Detailed profit and loss analysis by fiscal month.
 •	Profit & Loss by Fiscal years: Detailed profit and loss analysis by fiscal year.
 
-# Sales and financials reports:
+## Sales and financials reports:
   Report link: https://github.com/mahasampath/Atliq-sales-Analytics/blob/main/report.pdf
 
 # Overall Insights
