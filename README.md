@@ -20,7 +20,7 @@ Market Performance vs Targets Comparison: Analysis of sales efforts against goal
 Profit & Loss by Fiscal months: Detailed profit and loss analysis by fiscal month.
 Profit & Loss by Fiscal years: Detailed profit and loss analysis by fiscal year.
 Sales and financials reports:
-Report link: https://github.com/mahasampath/Atliq-sales-Analytics/blob/main/report.pdf
+# Report link: https://github.com/mahasampath/Atliq-sales-Analytics/blob/main/report.pdf
 
 Overall Insights
 Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
